@@ -1,2 +1,1 @@
-# ayanajoy.github.io
-My personal website
+# My personal website
